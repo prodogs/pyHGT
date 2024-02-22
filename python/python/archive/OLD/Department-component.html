@@ -1,0 +1,21 @@
+<ion-content color="light">
+  <ion-list [inset]="true">
+    <ion-item [button]="true" [detail]="false" id="{{ selectItemID }}">
+      <ion-label>{{ title }}</ion-label>
+      <div slot="end" id="selected-items">{{ selectedItemsText }}</div>
+    </ion-item>
+  </ion-list>
+</ion-content>
+
+<ion-modal trigger="{{ selectItemID }}" #modal>
+  <ng-template>
+    <app-typeahead
+      class="ion-page"
+      title="{{ title }}"
+      [items]="items"
+      [selectedItem]="selectedItem" 
+      (selectionChange)='itemSelectionChanged($event)'
+      (selectionCancel)="modal.dismiss()"
+    ></app-typeahead>
+  </ng-template>
+</ion-modal>

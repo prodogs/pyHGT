@@ -1,0 +1,108 @@
+profile_number,shelf_level,display_height,display_type,shelf_type,rail_lip,plexi,slanted,base_rail,special_instructions,special_notations,shelf_depth,shelf_1_slots,shelf_2_slots,shelf_3_slots,shelf_4_slots,shelf_5_slots,shelf_6_slots,special_notations
+101, Odd,62”, Gondola, Glass, , , , , , ,16”,7/8,14/15,22/23, , , , 
+101, Even,62”, Gondola, Glass, , , , , , ,16”,5/6,12/13,20/21, , , , 
+102, Odd,62”, Gondola, Glass, , , , , , ,16”,6/7,11/12,16/17,21/22, , , 
+102, Even,62”, Gondola, Glass, , , , , , ,16”,4/5,9/10,14/15,19/20, , , 
+103, Odd,62”, Gondola, Glass, , , , , , ,16”,9/10,19/20, , , , , 
+103, Even,62”, Gondola, Glass, , , , , , ,16”,8/9,17/18, , , , , 
+104, All,62”, Gondola, Glass, , , , , , ,16”,6/7,14/15,21/22, , , , 
+105, All,62”, Gondola, Glass, , , , , , ,16”,4/5,10/11,16/17,22/23, , , 
+106, Even,62”, Gondola, Glass, , , , , , ,16”,7/8,14/15,22/23, , , , 
+106, Odd,62”, Gondola, Glass, , , , , , ,16”,9/10,18/19, , , , , 
+107, Odd,62”, Gondola, Glass, , , , , , ,18”,13/14, , , , , , 
+107, Even,62”, Gondola, Glass, , , , , , ,18”,11/12, , , , , , 
+108, All,62”, Gondola, Metal, Rail, Yes, Yes, , place rail along front w/zip ties or plastic pegs and overlay the plexi-shield on each end of the rail, ,18”,3/4,8/9,14/15,20/21,25/26, , 
+109, Odd,62”, Gondola, Glass, Lip, , , , , ,16”,6/7,11/12,17/18,22/23, , , 
+109, Even,62”, Gondola, Glass, Lip, , , , , ,16”,5/6,10/11,16/17,21/22, , , 
+110, Odd,62”, Gondola, Rug Arms, , , , , , , ,24/25, , , , , , 
+110, All,62”, Gondola, Metal, Rail, , Yes, , place rail along front w/zip ties or plastic pegs, ,22”,8/9,14/15,20/21,26/27, , , 
+111, All,62”, Gondola, Glass, , , , , , ,16”,6/7,14/15,21/22, , , , 
+112, All,62”, Gondola, Glass, , , , , , ,16”,4/5,10/11,15/16,20/21, , , 
+113, Odd,51”, Gondola, Glass, , , , , , ,14”,5/6,11/12,17/18, , , , 
+113, Even,51”, Gondola, Glass, , , , , , ,14”,3/4,9/10,15/16, , , , 
+114, Odd,62”, Gondola, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 3/4 and 18/19,14”,16/17, , , , , ,Power strip @ 3/4 and 18/19
+114, Even,62”, Gondola, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 3/4 and 18/19,14”,13/14, , , , , ,Power strip @ 3/4 and 18/19
+115, All,62”, Gondola, Grid, , , , Yes, use wall art brackets or j-hooks, grids will be needed if it is NOT slatwall, , , , , , , , grids will be needed if it is NOT slatwall
+118, Odd,62”, Gondola, Glass, , , , , , ,18”,8/9,17/18, , , , , 
+118, Even,62”, Gondola, Glass, , , , , , ,18”,5/6,14/15, , , , , 
+121, All,62”, Gondola, Metal, , , , , , ,22”,4/5,10/11,15/16,21/22, , , 
+123, All,62”, Gondola, Basket, , , , , use large wire baskets, , ,6/7,16/17,26/27, , , , 
+124, Odd,62”, Gondola, Glass, , , , , glass shelf above w/jet rail underneath,Use jet rail in shelf 1 slots glass in shelf 2 slots,16”,19/20,21/22, , , , ,Use jet rail in shelf 1 slots glass in shelf 2 slots
+124, Even,62”, Gondola, Glass, , , , , glass shelf above w/grids underneath,use grids under the glass in shelf 2 slots,16”, ,21/22, , , , ,use grids under the glass in shelf 2 slots
+201, Odd,72”, Gondola, Glass, , , , , , ,16”,7/8,13/14,20/21,27/28, , , 
+201, Even,72”, Gondola, Glass, , , , , , ,16”,4/5,11/12,18/19,25/26, , , 
+202, Odd,72”, Gondola, Glass, , , , , , ,18”,9/10,20/21, , , , , 
+202, Even,72”, Gondola, Glass, , , , , , ,18”,7/8,18/19, , , , , 
+203, Odd,72”, Gondola, Glass, , , , , , ,18”,9/10,17/18,25/26, , , , 
+203, Even,72”, Gondola, Glass, , , , , , ,18”,8/9,16/17,24/25, , , , 
+204, All,72”, Gondola, Metal, , , , , , ,20”,11/12,18/19, , , , , 
+205, All,72”, Gondola, Metal, , , , , , ,20”,9/10,20/21, , , , , 
+206, All,72”, Gondola, Metal, Rail, , , , place rail along front w/zip ties or plastic pegs, ,20”,7/8,15/16,23/24, , , , 
+207, All,72”, Gondola, Metal, Rail, , , Yes, place rail along front w/zip ties or plastic pegs, ,20”,7/8,16/17,25/26, , , , 
+208, Odd,72”, Gondola, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 3/4 and 18/19,14”,20/21, , , , , ,Power strip @ 3/4 and 18/19
+208, Even,72”, Gondola, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 3/4 and 18/19,14”,16/17, , , , , ,Power strip @ 3/4 and 18/19
+209, All,72”, Gondola, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 3/4 and 18/19,14”,7/8,15/16,23/24, , , ,Power strip @ 3/4 and 18/19
+210, All,72”, Gondola, Grid, , , , Yes, , , , , , , , , , 
+211, Odd,72”, Gondola, Rug Arms, , , , , , , ,16/17,31/32, , , , , 
+211, Even,72”, Gondola, Metal, Rail, , Yes, , , ,22”,8/9,14/15,19/20,25/26,31/32, , 
+213, All,72”, Gondola, Glass, , , , , , ,16”,8/9,17/18,26/27, , , , 
+214, Odd,72”, Gondola, Glass, , , , , , ,16”,6/7,11/12,16/17,21/22,26/27, , 
+214, Even,72”, Gondola, Glass, , , , , , ,16”,4/5,9/10,14/15,19/20,24/25, , 
+215, All,72”, Gondola, Glass, , , , , , ,16”,4/5,9/10,15/16,20/21,26/27, , 
+216, All,72”, Gondola, Metal, Rail, Yes, Yes, , place rail along front w/zip ties or plastic pegs and overlay the plexi-shield on each end of the rail, ,18”,3/4,8/9,13/14,18/19,23/24,28/29, 
+217, Odd,72”, Gondola, Glass, , , , , , ,16”,7/8,15/16,23/24, , , , 
+217, Even,72”, Gondola, Glass, , , , , , ,16”,5/6,13/14,21/22, , , , 
+218, Odd,72”, Gondola, Glass, Lip, , , , place plastic lip along front edge w/rubber mallet, ,16”,8/9,15/16,21/22,27/28, , , 
+218, Even,72”, Gondola, Glass, Lip, , , , place plastic lip along front edge w/rubber mallet, ,16”,7/8,14/15,20/21,26/27, , , 
+219, All,72”, Gondola, Metal, Rail, , , Yes, place rail along front w/zip ties or plastic pegs, ,14”,9/10,17/18,24/25, , , , 
+220, All,72”, Gondola, Metal, Rail, , , Yes, , ,20”,9/10,18/19,27/28, , , , 
+221, All,72”, Gondola, Metal, , , , , , ,22”,4/5,10/11,15/16,21/22,26/27, , 
+222, Even,72”, Gondola, Glass, , , , , , ,16”,7/8,14/15,21/22,27/28, , , 
+223, All,72”, Gondola, Basket, , , , , use large wire baskets, , ,6/7,16/17,26/27, , , , 
+224, Odd,72”, Gondola, Glass, , , , , glass shelf above w/jet rail underneath,use jet rail in shelf 1 slots glass in shelf 2 slots,16”,24/25,26/27, , , , ,use jet rail in shelf 1 slots glass in shelf 2 slots
+224, Even,72”, Gondola, Glass, , , , , glass shelf above w/grids underneath,use grids under the glass in shelf 2 slots,16”, ,26/27, , , , ,use grids under the glass in shelf 2 slots
+301, Odd, , Wall, Glass, , , , , , ,16”,8/9,15/16,23/24,30/31, , , 
+301, Even, , Wall, Glass, , , , , , ,16”,5/6,13/14,20/21,28/29, , , 
+302, Odd, , Wall, Glass, , , , , , ,16”,7/8,13/14,19/20,25/26,30/31, , 
+302, Even, , Wall, Glass, , , , , , ,16”,5/6,11/12,17/18,23/24,28/29, , 
+304, All, , Wall, Glass, , , , , , ,18”,7/8,15/16,23/24,31/32, , , 
+306, Odd, , Wall, Glass, , , , , , ,18”,13/14,26/27, , , , , 
+306, Even, , Wall, Glass, , , , , , ,18”,10/11,23/24, , , , , 
+307, Odd, , Wall, Glass, , , , , , ,18”,10/11,20/21,30/31, , , , 
+307, Even, , Wall, Glass, , , , , , ,18”,7/8,17/18,27/28, , , , 
+308, All, , Wall, Metal, , , , , , ,20”,10/11,20/21,30/31, , , , 
+309, All, , Wall, Glass, , , , ,2 sizes of shelving used,18” in shelf slots 1 & 2 / 16” in shelf slots 3 - 6,16” & 18”,4/5,9/10,15/16,21/22,27/28,33/34,18” in shelf slots 1 & 2 / 16” in shelf slots 3 - 6
+310, All, , Wall, Metal, , , , , , ,20”,7/8,15/16,22/23,30/31, , , 
+311, Odd, , Wall, Rug Arms, , , , , , , ,14/15,29/30, , , , , 
+311, Even, , Wall, Metal, Rail, , Yes, , place rail along front w/zip ties or plastic pegs, ,22”,6/7,12/13,17/18,23/24,29/30, , 
+313, Odd, , Wall, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 4/5 and 16/17,14”,18/19, , , , , ,Power strip @ 4/5 and 16/17
+313, Even, , Wall, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 4/5 and 16/17,14”,16/17, , , , , ,Power strip @ 4/5 and 16/17
+314, All, , Wall, Grid, , , , Yes, use wall art brackets or j-hooks, grids will be needed if it is NOT slatwall, , , , , , , , grids will be needed if it is NOT slatwall
+319, All, , Wall, Metal, Rail, , , Yes, place rail along front w/zip ties or plastic pegs,2 sizes of shelving used 18” in shelf slots 1 & 2 / 14” in shelf slot 3,14”& 18”,7/8,15/16,22/23, , , ,2 sizes of shelving used 18” in shelf slots 1 & 2 / 14” in shelf slot 3
+321, All, , Wall, Metal, , , , Yes, , ,22”,4/5,10/11,15/16,21/22,26/27, , 
+323, All, , Wall, Basket, , , , , use large wire baskets, , ,6/7,16/17,26/27, , , , 
+324, Odd, , Wall, Glass, , , , , glass shelf above w/jet rail underneath,Use jet rail in shelf 1 & 2 slots glass in shelf 3 slots,16”,17/18,29/30,31/32, , , ,Use jet rail in shelf 1 & 2 slots glass in shelf 3 slots
+324, Even, , Wall, Glass, , , , , glass shelf above w/grids underneath,use grids under the glass in shelf 3 slots,16”, , ,31/32, , , ,use grids under the glass in shelf 3 slots
+401, All,62”, Endcap, Glass, , , , , , ,16”,6/7,13/14,20/21, , , , 
+402, All,62”, Endcap, Glass, , , , , , ,16”,4/5,10/11,15/16,21/22, , , 
+403, All,62”, Endcap, Metal, Rail, Yes, Yes, , place rail along front w/zip ties or plastic pegs and overlay the plexi-shield on each end of the rail, ,18”,3/4,8/9,14/15,19/20,23/24, , 
+404, All,62”, Endcap, Glass, , , , , , ,16”,7/8,16/17, , , , , 
+405, All,72”, Endcap, Glass, , , , , , ,16”,7/8,15/16,23/24, , , , 
+406, All,72”, Endcap, Metal, , , , , , ,16”,6/7,13/14,20/21, , , , 
+407, All,72”, Endcap, Metal, , , , , , ,16”,7/8,15/16,23/24, , , , 
+408, All,72”, Endcap, Glass, , , , ,use 16” braces for shelf gap,Power strip @ 1/2 and 18/19,14”,16/17, , , , , ,Power strip @ 1/2 and 18/19
+409, All,62”, Endcap, Grid, , , , Yes, use wall art brackets or j-hooks, grids will be needed if it is NOT slatwall, , , , , , , , grids will be needed if it is NOT slatwall
+411, All,72”, Endcap, Glass, , , , , , ,16”,6/7,13/14,20/21,27/28, , , 
+413, All,62”, Endcap, Metal, , , , , , ,16”,4/5,10/11,15/16,23/22, , , 
+414, All,72”, Endcap, Metal, , , , , , ,16”,4/5,10/11,15/16,21/22,26/27, , 
+415, All,72”, Endcap, Glass, , , , , , ,16”,4/5,10/11,15/16,21/22,26/27, , 
+416, All,72”, Endcap, Metal, Rail, Yes, Yes, , , ,18”,3/4,8/9,13/14,18/19,23/24,28/29, 
+419, All,72”, Endcap, Metal, Rail, , , Yes,w/rail on 3 sides,2 sizes of shelving used 18” in shelf slots 1 & 2 / 14” in shelf slot 3,14” & 18”,7/8,15/16,23/24, , , ,2 sizes of shelving used 18” in shelf slots 1 & 2 / 14” in shelf slot 3
+501, Odd, , Focal Wall, Glass, , , , ,16” glass within wood frame, ,16”+,8/9,15/16,23/24,30/31, , , 
+501, Even, , Focal Wall, Glass, , , , ,16” glass within wood frame, ,16”+,5/6,13/14,20/21,28/29, , , 
+506, Odd, , Focal Wall, Glass, , , , ,18” glass within wood frame, ,18”+,13/14,26/27, , , , , 
+506, Even, , Focal Wall, Glass, , , , ,18” glass within wood frame, ,18”+,10/11,23/24, , , , , 
+507, Odd, , Focal Wall, Glass, , , , ,18” glass within wood frame, ,18”+,10/11,20/21,30/31, , , , 
+507, Even, , Focal Wall, Glass, , , , ,18” glass within wood frame, ,18”+,7/8,17/18,27/28, , , , 
+508, All, , Focal Wall, Glass, , , , ,20” glass within wood frame, ,20”+,10/11,20/21,31/31, , , , 
+514, All, , Focal Wall, Grid, , , , Yes, use wall art brackets or j-hooks, grids will be needed if it is NOT slatwall, , , , , , , , grids will be needed if it is NOT slatwall
