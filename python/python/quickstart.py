@@ -28,7 +28,11 @@ def main():
 
     if os.path.exists("token.json"):
         print("Loading Credentials From File...")
-        creds = Credentials.from_authorized_user_file("token.json", SCOPES)
+        try:
+            creds = Credentials.from_authorized_user_file("token.json", SCOPES)
+        except json.decoder.JSONDecodeError:
+            print("Invalid Credentials File...")
+            return
         print(creds)
 
     if not creds or not creds.valid:
